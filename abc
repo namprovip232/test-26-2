@@ -1,0 +1,179 @@
+Table of Contents
+
+
+1.	Lập trình web là gì?	2
+1.1.	Lập trình trên web là làm công việc gì?	2
+2.	Front-end là gì?	3
+2.1.	Lập trình viên front-end làm gì:	3
+3.	Backend là gì?	4
+3.1.	Lập trình viên backend làm gì:	4
+4.	Cơ sở dữ liệu là gì?	5
+4.1.	Có hai loại cơ sở dữ liệu chính:	5
+5.	API là gì?	6
+5.1.	Có nhiều loại API khác nhau:	6
+6.	DevOps là gì?	6
+6.1.	Công việc của người làm DevOps:	6
+7.	Git là gì?	7
+7.1.	Một số câu lệnh Git cơ bản:	7
+8.	Em định hướng làm gì?	8
+
+
+ 
+1.	Lập trình web là gì?
+Lập trình web là quá trình tạo ra một trang web hoặc ứng dụng web bằng cách sử dụng các ngôn ngữ lập trình và công nghệ web. Nó bao gồm việc xây dựng cấu trúc và chức năng của trang web, cũng như thiết kế giao diện người dùng.
+1.1.	Lập trình trên web là làm công việc gì?
+Định nghĩa:
+Lập trình web là quá trình tạo ra các trang web và ứng dụng web bằng cách sử dụng các ngôn ngữ lập trình và công nghệ web. Nó bao gồm việc xây dựng cấu trúc và chức năng của trang web, cũng như thiết kế giao diện người dùng.
+Các lĩnh vực:
+Có ba lĩnh vực chính trong lập trình web:
+•	Lập trình front-end: Tập trung vào việc tạo ra giao diện người dùng của trang web, bao gồm các yếu tố như bố cục, màu sắc, hình ảnh và văn bản. Các ngôn ngữ lập trình front-end phổ biến bao gồm HTML, CSS và JavaScript.
+•	Lập trình back-end: Tập trung vào việc tạo ra logic và chức năng của trang web, bao gồm việc xử lý dữ liệu, truy cập cơ sở dữ liệu và tương tác với máy chủ. Các ngôn ngữ lập trình back-end phổ biến bao gồm PHP, Python, Java và Ruby.
+•	Lập trình full-stack: Kết hợp cả lập trình front-end và back-end. Các lập trình viên full-stack có thể phát triển toàn bộ trang web từ đầu đến cuối.
+Các công việc:
+Có nhiều công việc khác nhau trong lĩnh vực lập trình web, bao gồm:
+•	Lập trình viên front-end
+•	Lập trình viên back-end
+•	Lập trình viên full-stack
+•	Nhà phát triển web di động
+•	Kỹ sư DevOps
+Kỹ năng cần thiết:
+Để trở thành một lập trình viên web, bạn cần có:
+•	Kỹ năng lập trình
+•	Kỹ năng giải quyết vấn đề
+•	Kỹ năng tư duy logic
+•	Kỹ năng giao tiếp
+•	Kỹ năng học tập
+
+2.	Front-end là gì?
+Front-end (hay còn gọi là client-side) là phần giao diện người dùng của một trang web hoặc ứng dụng web mà người dùng có thể nhìn thấy và tương tác trực tiếp. Nó bao gồm các yếu tố như bố cục, màu sắc, hình ảnh, văn bản, menu, nút bấm, thanh trượt, v.v.
+Cách thức hoạt động:
+Khi bạn truy cập một trang web, trình duyệt web của bạn sẽ tải xuống mã HTML, CSS và JavaScript của trang web đó. Sau đó, trình duyệt sẽ xử lý mã này và hiển thị giao diện front-end cho bạn.
+Công nghệ:
+Ba công nghệ chính được sử dụng trong lập trình front-end là:
+•	HTML: Hypertext Markup Language, là ngôn ngữ dùng để tạo cấu trúc cơ bản của trang web.
+•	CSS: Cascading Style Sheets, là ngôn ngữ dùng để định kiểu cho trang web, bao gồm màu sắc, bố cục, phông chữ, v.v.
+•	JavaScript: Là ngôn ngữ lập trình giúp tạo ra các tương tác và chức năng động cho trang web.
+Ví dụ:
+•	Khi bạn click vào một nút bấm trên trang web, đó là front-end đang hoạt động.
+•	Khi bạn di chuột qua một hình ảnh và hình ảnh đó thay đổi, đó là front-end đang hoạt động.
+•	Khi bạn nhập văn bản vào một ô nhập liệu và văn bản đó xuất hiện trên màn hình, đó là front-end đang hoạt động.
+
+2.1.	Lập trình viên front-end làm gì:
+Lập trình viên front-end là người chịu trách nhiệm xây dựng và duy trì giao diện người dùng của trang web hoặc ứng dụng web. Họ sử dụng các công nghệ HTML, CSS và JavaScript để tạo ra các giao diện đẹp mắt, dễ sử dụng và tương tác tốt với người dùng.
+Kỹ năng cần thiết:
+Để trở thành một lập trình viên front-end, bạn cần có:
+•	Kiến thức về HTML, CSS và JavaScript.
+•	Kỹ năng giải quyết vấn đề.
+•	Kỹ năng tư duy logic.
+•	Kỹ năng giao tiếp.
+•	Kỹ năng học tập.
+Tài nguyên:
+Có rất nhiều tài nguyên available online để bạn có thể học về lập trình front-end, bao gồm:
+•	Khóa học trực tuyến: Coursera, Udemy, edX, v.v.
+•	Sách và tài liệu: W3Schools, MDN Web Docs, v.v.
+•	Cộng đồng lập trình viên: Stack Overflow, GitHub, v.v.
+
+3.	Backend là gì?
+Backend (hay còn gọi là server-side) là phần "hậu trường" của một trang web hoặc ứng dụng web. Nó bao gồm các yếu tố như logic, dữ liệu, máy chủ và các ứng dụng chạy trên máy chủ. Backend là phần mà người dùng không nhìn thấy trực tiếp, nhưng nó đóng vai trò quan trọng trong việc xử lý các yêu cầu của người dùng và cung cấp dữ liệu cho giao diện front-end.
+Cách thức hoạt động:
+Khi bạn thực hiện một hành động trên trang web hoặc ứng dụng web, ví dụ như đăng nhập, mua hàng hoặc gửi email, yêu cầu của bạn sẽ được gửi đến máy chủ backend. Máy chủ backend sẽ xử lý yêu cầu này, truy cập cơ sở dữ liệu và trả về kết quả cho giao diện front-end.
+Công nghệ:
+Có nhiều ngôn ngữ lập trình khác nhau được sử dụng để phát triển backend, bao gồm:
+•	Python: Ngôn ngữ lập trình phổ biến, dễ học và sử dụng.
+•	Java: Ngôn ngữ lập trình mạnh mẽ, có thể mở rộng và được sử dụng rộng rãi.
+•	PHP: Ngôn ngữ lập trình được sử dụng phổ biến cho các trang web WordPress.
+•	Ruby: Ngôn ngữ lập trình hướng đối tượng, dễ sử dụng và có cộng đồng phát triển mạnh mẽ.
+
+3.1.	Lập trình viên backend làm gì:
+Lập trình viên backend là người chịu trách nhiệm xây dựng và duy trì phần "hậu trường" của trang web hoặc ứng dụng web. Họ sử dụng các ngôn ngữ lập trình để xử lý các yêu cầu của người dùng, truy cập cơ sở dữ liệu và cung cấp dữ liệu cho giao diện front-end.
+Công việc của lập trình viên backend:
+•	Viết mã để xử lý các yêu cầu của người dùng.
+•	Truy cập và thao tác với cơ sở dữ liệu.
+•	Tạo API để giao tiếp với front-end.
+•	Tối ưu hóa hiệu suất của ứng dụng.
+•	Bảo mật dữ liệu và ứng dụng.
+Kỹ năng cần thiết:
+Để trở thành một lập trình viên backend, bạn cần có:
+•	Kiến thức về các ngôn ngữ lập trình backend.
+•	Kiến thức về cơ sở dữ liệu.
+•	Kỹ năng giải quyết vấn đề.
+•	Kỹ năng tư duy logic.
+•	Kỹ năng giao tiếp.
+•	Kỹ năng học tập.
+Tài nguyên:
+Có rất nhiều tài nguyên available online để bạn có thể học về lập trình backend, bao gồm:
+•	Khóa học trực tuyến: Coursera, Udemy, edX, v.v.
+•	Sách và tài liệu: Real Python, JavaTpoint, PHP.net, v.v.
+•	Cộng đồng lập trình viên: Stack Overflow, GitHub, v.v.
+
+4.	Cơ sở dữ liệu là gì?
+Cơ sở dữ liệu (hay còn gọi là database) là một tập hợp dữ liệu được tổ chức và lưu trữ theo một cách có hệ thống. Nó cho phép bạn lưu trữ, truy cập và quản lý dữ liệu một cách hiệu quả.
+
+4.1.	Có hai loại cơ sở dữ liệu chính:
+•	Cơ sở dữ liệu quan hệ: Loại cơ sở dữ liệu phổ biến nhất, sử dụng bảng để lưu trữ dữ liệu. Mỗi bảng có các hàng và cột, và mỗi hàng đại diện cho một bản ghi dữ liệu.
+•	Cơ sở dữ liệu phi quan hệ: Loại cơ sở dữ liệu mới hơn, không sử dụng bảng để lưu trữ dữ liệu. Các loại cơ sở dữ liệu phi quan hệ phổ biến bao gồm cơ sở dữ liệu NoSQL, cơ sở dữ liệu đồ thị và cơ sở dữ liệu key-value.
+Mỗi loại cơ sở dữ liệu có ưu điểm và nhược điểm riêng. Loại cơ sở dữ liệu phù hợp cho bạn sẽ phụ thuộc vào nhu cầu cụ thể của bạn.
+
+5.	API là gì?
+API là viết tắt của Application Programming Interface (Giao diện lập trình ứng dụng). Nó là một tập hợp các định nghĩa và giao thức cho phép các phần mềm khác nhau tương tác với nhau. API cung cấp một cách thức tiêu chuẩn để các ứng dụng giao tiếp và trao đổi dữ liệu.
+5.1.	Có nhiều loại API khác nhau:
+•	REST API: Loại API phổ biến nhất, sử dụng các phương thức HTTP (GET, POST, PUT, DELETE) để truy cập dữ liệu.
+•	SOAP API: Loại API sử dụng giao thức SOAP để truyền tải dữ liệu.
+•	GraphQL API: Loại API mới hơn, cho phép các nhà phát triển truy cập dữ liệu một cách linh hoạt hơn.
+Mỗi loại API có ưu điểm và nhược điểm riêng. Loại API phù hợp cho bạn sẽ phụ thuộc vào nhu cầu cụ thể của bạn.
+
+6.	DevOps là gì?
+DevOps là một phương pháp phát triển và vận hành phần mềm kết hợp các hoạt động phát triển (Dev), vận hành (Ops) và bảo mật (Sec). Mục tiêu của DevOps là tạo ra một quy trình liền mạch và hiệu quả hơn để cung cấp phần mềm chất lượng cao cho người dùng.
+6.1.	Công việc của người làm DevOps:
+•	Tự động hóa: Triển khai các công cụ và quy trình tự động hóa để streamline việc phát triển, triển khai và vận hành phần mềm.
+•	Cộng tác: Làm việc với các nhóm phát triển, vận hành và bảo mật để tạo ra một quy trình DevOps hiệu quả.
+•	Giám sát: Theo dõi hiệu suất của hệ thống và ứng dụng để xác định và giải quyết các vấn đề tiềm ẩn.
+•	Cải tiến: Liên tục tìm kiếm các cách thức để cải thiện quy trình DevOps.
+Kỹ năng cần thiết:
+•	Kiến thức về phát triển phần mềm: Hiểu biết về các quy trình phát triển phần mềm và các công cụ liên quan.
+•	Kiến thức về vận hành hệ thống: Hiểu biết về cách thức vận hành hệ thống và các công cụ liên quan.
+•	Kỹ năng tự động hóa: Khả năng triển khai các công cụ và quy trình tự động hóa.
+•	Kỹ năng cộng tác: Khả năng làm việc hiệu quả với các nhóm khác nhau.
+•	Kỹ năng giải quyết vấn đề: Khả năng xác định và giải quyết các vấn đề kỹ thuật.
+•	Kỹ năng học tập: Khả năng học hỏi và thích ứng với các công nghệ mới.
+Tài nguyên:
+•	Khóa học trực tuyến: Coursera, Udemy, edX, v.v.
+•	Sách và tài liệu: The Phoenix Project, The DevOps Handbook, v.v.
+•	Cộng đồng DevOps: Stack Overflow, GitHub, v.v.
+
+7.	Git là gì?
+Git là một hệ thống quản lý phiên bản phân tán (DVCS) được sử dụng rộng rãi để theo dõi các thay đổi trong mã nguồn và quản lý các dự án phát triển phần mềm.
+Lợi ích:
+•	Theo dõi lịch sử: Git lưu trữ toàn bộ lịch sử thay đổi của mã nguồn, cho phép bạn quay lại phiên bản trước đó hoặc xem ai đã thực hiện thay đổi nào.
+•	Hợp tác: Git cho phép nhiều người làm việc trên cùng một dự án đồng thời, dễ dàng hợp nhất các thay đổi từ các nhánh khác nhau.
+•	Phân tán: Git không yêu cầu máy chủ trung tâm, cho phép bạn làm việc ngoại tuyến và đồng bộ hóa thay đổi sau.
+7.1.	Một số câu lệnh Git cơ bản:
+Khởi tạo kho lưu trữ:
+git init
+Thêm tệp mới vào kho lưu trữ:
+git add <tên_tệp>
+Ghi lại thay đổi:
+git commit -m "<ghi_chú>"
+Cập nhật kho lưu trữ từ xa:
+git fetch
+Hợp nhất thay đổi từ kho lưu trữ từ xa:
+git merge origin/master
+Tạo nhánh mới:
+git branch <tên_nhánh>
+Chuyển sang nhánh khác:
+git checkout <tên_nhánh>
+Xóa nhánh:
+git branch -d <tên_nhánh>
+Xem lịch sử thay đổi:
+git log
+Xem sự khác biệt giữa các phiên bản:
+git diff <commit_hash1> <commit_hash2>
+Hủy bỏ thay đổi:
+git reset HEAD~1
+Đây chỉ là một số câu lệnh Git cơ bản. Bạn có thể tham khảo thêm tài liệu để tìm hiểu thêm về các tính năng và câu lệnh khác của Git.
+
+8.	Em định hướng làm gì?
+Em định hướng có thể làm về mảng Database và Devops, hay bảo mật và quản trị mạng vì thấy tiềm năng và nhu cầu lớn trong quá trình chuyển đổi số cũng như sự phát triển của xã hội. Bên cạnh đó, nó có thể sẽ phù hợp với trình độ và nhận thức của em, và cũng có chút thích thú với các lĩnh vực này!
+
+
+
